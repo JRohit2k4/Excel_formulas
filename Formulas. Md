@@ -1,0 +1,24 @@
+# Excel Formulas 📊
+
+## 1. SUM
+Adds values
+=SUM(A1:A10)
+
+---
+
+## 2. AVERAGE
+=AVERAGE(A1:A10)
+
+---
+
+## 3. COUNT
+Counts numbers
+=COUNT(A1:A10)
+
+---
+
+## 4. IF
+Conditional logic
+=IF(A1>50,"Pass","Fail")
+
+---
